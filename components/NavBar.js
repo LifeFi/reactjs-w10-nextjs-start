@@ -20,7 +20,6 @@ export default function NavBar() {
 
         a {
           text-decoration: none;
-          color: tomato;
         }
         .active {
           color: yellow;
